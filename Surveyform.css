@@ -1,0 +1,65 @@
+body {
+  text-align: center;
+  background-image: url(https://www.avert.org/sites/default/files/styles/article_scale_style_780/public/5919-original-780x400.jpg?itok=0MuU3bLx&timestamp=1473838691);
+}
+
+h1 {
+  font-size: 40px;
+  color: black;
+}
+
+p {
+  font-size: 25px;
+  color: black;
+}
+
+label {
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 50px;
+}
+
+input {
+  margin: 10px 10px 10px 10px;
+  padding: 10px 200px 10px 10px;
+  border-radius: 15px;
+  font-size: 15px;
+}
+
+#number {
+  width: 30%;
+  padding: 10px 0px 10px 0px;
+  text-align: center;
+  font-size: 15px;
+}
+
+select {
+  border-radius: 10px;
+  font-size: 15px;
+  padding: 5px 10px 5px 10px;
+  margin-left: 20px;
+}
+
+form {
+  background-color: rgba(0, 170, 200, 0.7);
+  margin: 10px 180px 10px 180px;
+  border-radius: 20px;
+  padding: 20px 40px 30px 40px;
+}
+
+#submit {
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.text {
+  text-align: justify;
+  border: solid;
+  margin: 10px 10px 10px 10px;
+  padding: 30px 100px 30px 10px;
+  border-radius: 20px;
+  font-size: 15px;
+}
